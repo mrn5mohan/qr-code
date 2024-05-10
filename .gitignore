@@ -4,7 +4,10 @@
 #####################################################
 *.sketch
 *.fig
-Screenshot_9-5-2024_6468_127.0.0.1.jpeg
++Screenshot_9-5-2024_6468_127.0.0.1.jpeg
++design
++images
++qr-code/qr-code-component-main
 # Avoid accidental XD upload if you convert the design file
 ###############################################
 ## Please do not remove line 12 - thanks! 🙂 ##
