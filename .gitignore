@@ -1,9 +1,16 @@
+# Avoid accidental upload of the Sketch and Figma design files
+#####################################################
+## Please do not remove lines 5 and 6 - thanks! 🙂 ##
+#####################################################
+*.sketch
+*.fig
 
-__MACOSX/qr-code-component-figma/._qr-code-component.fig
-__MACOSX/qr-code-component-figma/._README.md
-__MACOSX/qr-code-component-sketch/._qr-code-component.sketch
-__MACOSX/qr-code-component-sketch/._README.md
-qr-code-component-figma/qr-code-component.fig
-qr-code-component-figma/README.md
-qr-code-component-sketch/qr-code-component.sketch
-qr-code-component-sketch/README.md
+# Avoid accidental XD upload if you convert the design file
+###############################################
+## Please do not remove line 12 - thanks! 🙂 ##
+###############################################
+*.xd
+
+# Avoid your project being littered with annoying .DS_Store files!
+.DS_Store
+.prettierignore
